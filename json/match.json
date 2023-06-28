@@ -1,0 +1,29 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Match 1"
+      },
+      {
+        "id": 2,
+        "name": "Match 2"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Match 1",
+        "description": "Berhasil menang dengan mudah",
+        "image": "img/m1.jpeg",
+        "category": 1
+      },
+      {
+        "id": 2,
+        "name": "Match 2",
+        "description": "Berhasil menang dengan lebih mudah",
+        "image": "img/m2.jpeg",
+        "category": 2
+      }
+    ]
+  }
+  
